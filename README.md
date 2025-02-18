@@ -14,4 +14,4 @@ Documentations : https://github.com/HuynhHuy212/Polysite_Group07/tree/main/Docum
 =======================================
 Published website : https://huynhhuy212.github.io/Polysite_Group07/
 =======================================
-Thank you for visit our website.![image](https://github.com/user-attachments/assets/fa4a2dab-ab13-4c01-89b0-de1868a270b7)
+Thank you for visit our website.
